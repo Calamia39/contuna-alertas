@@ -6,13 +6,5 @@
     "resumen": "Los boletines fitosanitarios de referencia sitúan el riesgo actual de mosca del olivo (Bactrocera oleae) en nivel bajo-moderado, con vigilancia reforzada en Cuenca y Albacete. La plaga prospera entre 20-25°C con humedad alta; por encima de 30°C se reduce su viabilidad y por encima de 40°C mueren los adultos. Recomiendan seguimiento con trampeo antes de tratar. No se encontró un boletín específico y actualizado de olivar para Extremadura/Badajoz en esta búsqueda.",
     "fuente": "AgroCLM (19/09/2026)",
     "url": "https://www.agroclm.com/2026/09/19/castilla-la-mancha-pide-reforzar-la-vigilancia-de-la-mosca-del-olivo/"
-  },
-  {
-    "fecha": "2026-09-20",
-    "tipo": "clima",
-    "titulo": "PRUEBA: ola de calor sin lluvia en Extremadura",
-    "resumen": "Entrada de prueba para verificar la sincronizacion.",
-    "fuente": "Prueba interna",
-    "url": "https://example.com/prueba-sync"
   }
 ]
